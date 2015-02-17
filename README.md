@@ -18,6 +18,7 @@ RecruitiFi allows organizations to create job listings, known as a JobCast: a si
 - Define a non-file based data store
 - Share your project on github for review
 - Be prepared to discuss your decisions/trade-offs
+- Spend no more than 4 hours on the challenge
 
 
 ## Domain
